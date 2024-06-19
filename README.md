@@ -1,3 +1,7 @@
+NAME:BUNTU LEVY CALEB
+ID: 25250
+
+
 SimpleCalculator
 SimpleCalculator is a basic calculator built with Flutter. It performs the basic arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
 The calculator also comes with a Clear (C) functionality to reset the calculation and has a stylish, dark-themed user interface.
