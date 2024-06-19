@@ -11,7 +11,6 @@ Clear functionality: Resets the calculation, ensuring that you can start a new c
 Dark theme: A stylish and easy-on-the-eyes design.
 Installation:
 Make sure that you have Flutter installed on your local machine.
-Clone the repository by running the command git clone https://github.com/YOUR_USERNAME/SimpleCalculator.
 Run the command flutter pub get to fetch the necessary Flutter packages.
 Build the project using flutter build.
 Run the app using flutter run.
